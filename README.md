@@ -167,6 +167,10 @@
 ## Commit Streak
 [![Habeeb's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=Efiamotu-1&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
 
+<details>
+	<summary><b>🧲 GitHub Graph</b></summary>
+	<img src="https://activity-graph.herokuapp.com/graph?username=Efiamotu-1&theme=minimal" />
+</details>
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 Ask me anything here
@@ -177,5 +181,10 @@ http://musahabeebefy12@gmail.com
 
 ## Happy Coding! 😊
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 
