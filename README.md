@@ -10,11 +10,11 @@
 ### **I'm Habeeb Efiamotu Musa Owolewa**
 #### Full-stack Software Developer in the Making
 
-- 🌱 I’m currently working at **Qolom COmpany** 
+- 🌱 I’m currently working at **Qolom Company** 
 - 🌱 I’m currently learning at **Microverse** 
 - 🔭 I’m currently working on JavaScript Frameworks such as **React** 
-- 🌱 I’m currently learning `HTML` `CSS` `JavaScript` `Ruby`
-- 👯 I’m looking to collaborate on JavaScript, React and Rails projects.
+- 🌱 I’m currently learning `HTML` `CSS` `JavaScript` `React` `Redux`
+- 👯 I’m looking to collaborate on JavaScript, React and Redux projects.
 - 🌱 Don't be shy to say Hi
 - ⚡ Fun fact: I Love watching series.
 
@@ -173,7 +173,7 @@ Ask me anything here
 or email me 
 http://musahabeebefy12@gmail.com
 
-⭐️ From [HABEEB MUSA EFIAMOTU OWOLEWA](https://github.com/Efiamotu-1)
+⭐️ From [EFIAMOTU](https://github.com/Efiamotu-1)
 
 ## Happy Coding! 😊
 
