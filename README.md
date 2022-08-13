@@ -164,6 +164,8 @@
 </p>
 </h3>
 
+## Commit Streak
+[![Habeeb's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=Efiamotu-1&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
 
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
