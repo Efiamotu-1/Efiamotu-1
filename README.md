@@ -10,6 +10,7 @@
 ### **I'm Habeeb Efiamotu Musa Owolewa**
 #### Full-stack Software Developer in the Making
 
+- 🌱 I’m currently available for hire and open to new job opportunities, send a mail to musahabeebefy12@gmail.com
 - 🌱 I’m currently working at **Qolom Company** 
 - 🌱 I’m currently learning at **Microverse** 
 - 🔭 I’m currently working on JavaScript Frameworks such as **React** 
