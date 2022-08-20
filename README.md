@@ -8,12 +8,12 @@
 <!-- # 𝐇𝐞𝐥𝐥𝐨 World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  -->
 ### Hi there 👋
 ### **I'm Habeeb Efiamotu Musa Owolewa**
-#### Full-stack Software Developer in the Making
+#### I'm a Full-stack Software Developer in the Making
 
 - 🌱 I’m currently available for hire and open to new job opportunities, send me a mail musahabeebefy12@gmail.com
-- 🌱 I’m currently working at **Qolom Company** 
+- 🌱 I’m currently working as a front-end developer at **Qolom Company** 
 - 🌱 I’m currently learning at **Microverse** 
-- 🔭 I’m currently working on JavaScript Frameworks such as **React** 
+- 🔭 I’m currently working with JavaScript Frameworks such as **React & Redux** 
 - 🌱 I’m currently learning `HTML` `CSS` `JavaScript` `React` `Redux`
 - 👯 I’m looking to collaborate on JavaScript, React and Redux projects.
 - 🌱 Don't be shy to say Hi
