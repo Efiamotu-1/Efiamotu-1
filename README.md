@@ -10,7 +10,7 @@
 ### **I'm Habeeb Efiamotu Musa Owolewa**
 #### I'm a Full-stack Software Developer in the Making
 
-- 🌱 I’m currently available for hire and open to new job opportunities, send me a mail musahabeebefy12@gmail.com
+- 🌱 I’m currently available for hire and open to new job opportunities, send me a mail musahabeebefy10@gmail.com
 - 🌱 I’m currently working as a front-end developer at **Qolom Company** 
 - 🌱 I’m currently learning at **Microverse** 
 - 🔭 I’m currently working with JavaScript Frameworks such as **React & Redux** 
@@ -147,7 +147,7 @@
 <h3>Reach me</h3>
 
 <p>
-  <a href="mailto:musahabeebefy12@gmail.com@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:musahabeebefy10@gmail.com@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
