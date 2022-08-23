@@ -23,7 +23,7 @@
 <h3> 👱 Visitors count </h3>
 <img src="https://profile-counter.glitch.me/Efiamotu-1/count.svg" />
 <p>
-<h2><u><b>Knowledge Base</b></u></h2>
+<h2><u><b>Knowledge Base.</b></u></h2>
 
 <h3>Languages</h3>
 <p>
