@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning `HTML` `CSS` `JavaScript` `React` `Redux`
 - 👯 I’m looking to collaborate on JavaScript, React and Redux projects.
 - 🌱 Don't be shy to say Hi
-- ⚡ Fun fact: I Love watching series.
+- ⚡ Fun fact: I love watching series.
 
 <br />
 <h3> 👱 Visitors count </h3>
