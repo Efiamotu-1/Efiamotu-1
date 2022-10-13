@@ -7,7 +7,7 @@
 
 <!-- # 𝐇𝐞𝐥𝐥𝐨 World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  -->
 ### Hi there, **I'm Habeeb Efiamotu Musa Owolewa** 👋
-#### I'm a Full-stack Software Developer.
+#### I'm a Full-stack Software Developer
 
 - 🌱 I’m currently available for hire and open to new job opportunities, send me a mail musahabeebefy10@gmail.com.
 - 🌱 I’m currently working as a front-end developer at **Qolom Company** 
