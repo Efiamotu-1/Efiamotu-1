@@ -160,6 +160,8 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Efiamotu-1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- [![Habeeb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Efiamotu)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 Ask me anything here
