@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning `Ruby` `Rails`
 - 👯 I’m looking to collaborate on JavaScript, React,Redux, Ruby Projects.
 - 🌱 Don't be shy to say Hi
-- ⚡ Fun fact: I love watching tv series.
+- ⚡ Fun fact: I love watching tv series
 <!-- - 🌱 I’m currently working as a front-end developer at **Qolom Company**  -->
 <br />
 <h3> 👱 Visitors count </h3>
