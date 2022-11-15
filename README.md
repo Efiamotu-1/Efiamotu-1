@@ -155,12 +155,16 @@
 ## Commit Streak
 [![Habeeb's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=Efiamotu-1&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
 
+## Hacktoberfest Badge's
+[![@efiamotu1's Holopin board](https://holopin.me/efiamotu1)](https://holopin.io/@efiamotu1)
+
 
 > **Contribution Graph**
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Efiamotu-1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- [![Habeeb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Efiamotu)](https://github.com/anuraghazra/github-readme-stats)
+
  -->
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
