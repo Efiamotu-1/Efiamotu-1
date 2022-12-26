@@ -159,10 +159,10 @@
 [![@efiamotu1's Holopin board](https://holopin.me/efiamotu1)](https://holopin.io/@efiamotu1)
 
 
-> **Contribution Graph**
+<!-- > **Contribution Graph**
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Efiamotu-1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+ -->
 <!-- [![Habeeb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Efiamotu)](https://github.com/anuraghazra/github-readme-stats)
 
  -->
