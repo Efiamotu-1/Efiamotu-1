@@ -1,7 +1,7 @@
 
 <!-- # 𝐇𝐞𝐥𝐥𝐨 World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  -->
 ### Hi there, **I'm Habeeb Efiamotu Musa Owolewa** 👋
-#### I'm a Full-stack Software Developer
+#### I'm a Full-stack Software Developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Habeeb%20Efiamotu%20Musa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/musa-habeeb)](https://www.linkedin.com/in/musa-habeeb/)
 [![Twitter Badge](https://img.shields.io/badge/-@Efyamotu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EFYAMOTU)](https://twitter.com/EFYAMOTU)
