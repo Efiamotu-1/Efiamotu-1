@@ -143,6 +143,9 @@
 <br><br>
 
 # Github's Status
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Efiamotu-1&theme=nord&row=1&column=6" alt="Efiamotu-1" /></a> </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Efiamotu-1&layout=compact&langs_count=6&hide=Blade&exclude_repo=mobile-menu,past-project,Questioner,StackOverflow-lite,survey-form,linterstest,Victor-et-Felix,hello-microverse,felix-and-shaili,animated-menus,adopt-an-orphan)](https://github.com/anuraghazra/github-readme-stats)
 
   <p>
@@ -157,6 +160,7 @@
 
 ## Hacktoberfest Badge's
 [![@efiamotu1's Holopin board](https://holopin.me/efiamotu1)](https://holopin.io/@efiamotu1)
+
 
 
 <!-- > **Contribution Graph**
