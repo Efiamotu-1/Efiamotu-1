@@ -161,6 +161,9 @@
 ## Hacktoberfest Badge's
 [![@efiamotu1's Holopin board](https://holopin.me/efiamotu1)](https://holopin.io/@efiamotu1)
 
+### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
+
+[![Efiamotu](https://github-readme-stats.vercel.app/api/wakatime?username=Efiamotu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- > **Contribution Graph**
