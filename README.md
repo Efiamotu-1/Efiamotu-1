@@ -11,6 +11,7 @@
 <!-- [![Turing Badge](https://img.shields.io/badge/-Turing_Profile-000000?style=flat-square&labelColor=000000&logo=Turing&logoColor=white&link=https://matching.turing.com/developer-resume/293bcfce2f551f087047859cb8d59b7acb7377c1d50fa2)](https://matching.turing.com/developer-resume/293bcfce2f551f087047859cb8d59b7acb7377c1d50fa2) -->
 
 
+
 - 🌱 I’m currently available for hire and open to new job opportunities, send me a mail musahabeebefy10@gmail.com.
 - 🌱 I’m currently learning at **Microverse** 
 - 🔭 I’m currently working with **React, Redux, Ruby, Rails, Scss, Bootstrap, Tailwind, Material-UI, Styled Coponents**
@@ -161,16 +162,13 @@
 ## Hacktoberfest Badge's
 [![@efiamotu1's Holopin board](https://holopin.me/efiamotu1)](https://holopin.io/@efiamotu1)
 
-### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
-
-[![Efiamotu](https://github-readme-stats.vercel.app/api/wakatime?username=Efiamotu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- > **Contribution Graph**
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Efiamotu-1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  -->
-<!-- [![Habeeb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Efiamotu)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Habeeb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Efiamotu-1)](https://github.com/anuraghazra/github-readme-stats)
 
  -->
 
