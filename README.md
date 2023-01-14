@@ -23,6 +23,16 @@
 <br />
 <h3> 👱 Visitors count </h3>
 <img src="https://profile-counter.glitch.me/Efiamotu-1/count.svg" />
+
+# Github's Status
+
+| Statistics |   Languages |
+| ---------- | ----------- |
+ | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Efiamotu-1&show_icons=true&theme=radical" alt="Habeeb Efiamotu Musa Owolewa" width="500" /> |   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Efiamotu-1&layout=compact&langs_count=8&theme=algolia" alt="Habeeb Efiamotu Musa Owolewa" width="400"/>|
+</p><br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Efiamotu-1" alt="Habeeb Efiamotu Musa Owolewa" /></a> </p>
+
 <p>
 <h2><u><b>Knowledge Base.</b></u></h2>
 
@@ -142,19 +152,6 @@
   
 
 <br><br>
-
-# Github's Status
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Efiamotu-1&theme=nord&row=1&column=6" alt="Efiamotu-1" /></a> </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Efiamotu-1&layout=compact&langs_count=6&hide=Blade&exclude_repo=mobile-menu,past-project,Questioner,StackOverflow-lite,survey-form,linterstest,Victor-et-Felix,hello-microverse,felix-and-shaili,animated-menus,adopt-an-orphan)](https://github.com/anuraghazra/github-readme-stats)
-
-  <p>
-   <a href="https://github.com/Efiamotu-1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Efiamotu-1&show_icons=true&theme=radical"/>
-  </a>
-</p>
-</h3>
 
 ## Commit Streak
 [![Habeeb's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=Efiamotu-1&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
