@@ -1,7 +1,7 @@
 
 <!-- # 𝐇𝐞𝐥𝐥𝐨 World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  -->
 ### Hi there, **I'm Habeeb Efiamotu Musa Owolewa** 👋
-#### I'm a Full-stack Software Developer
+#### I'm a Full-stack Software Developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Habeeb%20Efiamotu%20Musa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/musa-habeeb)](https://www.linkedin.com/in/musa-habeeb/)
 [![Twitter Badge](https://img.shields.io/badge/-@Efyamotu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EFYAMOTU)](https://twitter.com/EFYAMOTU)
@@ -15,7 +15,7 @@
 - 🌱 I’m currently available for hire and open to new job opportunities, send me a mail musahabeebefy10@gmail.com.
 - 🌱 I’m currently learning at **Microverse** 
 - 🔭 I’m currently working with **React, Redux, Ruby, Rails, Scss, Bootstrap, Tailwind, Material-UI, Styled Coponents**
-- 🌱 I’m currently learning `Ruby` `Rails`
+- 🌱 I’m currently learning `NextJs` `TypeScript`
 - 👯 I’m looking to collaborate on JavaScript, React,Redux, Ruby Projects.
 - 🌱 Don't be shy to say Hi
 - ⚡ Fun fact: I love watching tv series
