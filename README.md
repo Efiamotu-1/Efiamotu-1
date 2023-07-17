@@ -13,10 +13,10 @@
 
 
 - 🌱 I’m currently available for hire and open to new job opportunities, send me a mail musahabeebefy10@gmail.com.
-- 🌱 I’m currently learning at **Microverse** 
-- 🔭 I’m currently working with **React, Redux, Ruby, Rails, Scss, Bootstrap, Tailwind, Material-UI, Styled Coponents**
+- 🌱 I’m currently working at **Microverse** 
+- 🔭 I’m currently working with **React, Redux, Ruby, Rails, Scss, Bootstrap, Tailwind, Material-UI**
 - 🌱 I’m currently learning `NextJs` `TypeScript` `SOFTR` `PRODUCT MANAGEMENT`
-- 👯 I’m looking to collaborate on JavaScript, React,Redux, Ruby Projects.
+- 👯 I’m looking to collaborate on JavaScript, React, Redux, Ruby on Rails Projects.
 - 🌱 Don't be shy to say Hi
 - ⚡ Fun fact: I love watching tv series
 <!-- - 🌱 I’m currently working as a front-end developer at **Qolom Company**  -->
@@ -29,7 +29,7 @@
 
 | Statistics |   Languages |
 | ---------- | ----------- |
- | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Efiamotu-1&show_icons=true&theme=radical" alt="Habeeb Efiamotu Musa Owolewa" width="500" /> |   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Efiamotu-1&layout=compact&langs_count=8&theme=algolia" alt="Habeeb Efiamotu Musa Owolewa" width="400"/>|
+ | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Efiamotu-1&show_icons=true&theme=algolia" alt="Habeeb Efiamotu Musa Owolewa" width="500" /> |   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Efiamotu-1&layout=compact&langs_count=10&theme=radical" alt="Habeeb Efiamotu Musa Owolewa" width="400"/>|
 </p><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Efiamotu-1" alt="Habeeb Efiamotu Musa Owolewa" /></a> </p>
