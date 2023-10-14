@@ -154,13 +154,9 @@
 
 <br><br>
 
-## Commit Streak
-[![Habeeb's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=Efiamotu-1&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
-
-## Hacktoberfest Badge's
-[![@efiamotu1's Holopin board](https://holopin.me/efiamotu1)](https://holopin.io/@efiamotu1)
-
-
+<!-- ## Commit Streak
+[![Habeeb's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=Efiamotu-1&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats) -->
+ 
 
 <!-- > **Contribution Graph**
 
